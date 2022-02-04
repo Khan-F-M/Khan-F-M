@@ -36,9 +36,9 @@
 <br />
 
 ### Frameworks:
-<img style="width: 50px;height: 50px;" align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/bootstrap.svg" />
-<img style="width: 50px;height: 50px;" align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/nodejs.svg" />
-<img style="width: 50px;height: 50px;" align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/flask.svg"/>
+<img style="width: 50px;height: 50px;" align="left" alt="Bootstrap"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/bootstrap.svg" />
+<img style="width: 50px;height: 50px;" align="left" alt="Nodejs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/nodejs.svg" />
+<img style="width: 50px;height: 50px;" align="left" alt="Flask"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/flask.svg"/>
 <br />
 <br />
 
