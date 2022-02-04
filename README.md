@@ -45,7 +45,7 @@
 <br />
 
 ### Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="width: 50px;height: 50px;" align="left" alt="Visual Studio Code"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/vscode.svg"/>
 
 <!-- [website]: https://codeSTACKr.com IN THE WORKS PORTFOLIO
 [youtube]: https://youtube.com/codeSTACKr -->
