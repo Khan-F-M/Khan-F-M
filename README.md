@@ -21,7 +21,9 @@
 ### Languages:
 <img style="width: 50px;height: 50px;" align="left" alt="C++"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/c++.svg" />
 <img style="width: 50px;height: 50px;" align="left" alt="C"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/c.svg" />
-
+<img style="width: 50px;height: 50px;" align="left" alt="HTML"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/html.svg" />
+<img style="width: 50px;height: 50px;" align="left" alt="CSS"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/css.svg" />
+<img style="width: 50px;height: 50px;" align="left" alt="JAVASCRIPT"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/javascript.svg" />
 <!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
