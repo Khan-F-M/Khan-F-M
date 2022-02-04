@@ -39,7 +39,7 @@
 <br />
 
 ### Tools:
-<img style="width: 45px;height: 45px;" align="left" alt="Visual Studio"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/visual-studio.svg"/>
+<img style="width: 40px;height: 40px;" align="left" alt="Visual Studio"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/visual-studio.svg"/>
 <img style="width: 50px;height: 50px;" align="left" alt="Visual Studio Code"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/vscode.svg"/>
 <img style="width: 50px;height: 50px;" align="left" alt="GitHub"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/github.svg"/>
 <img style="width: 50px;height: 50px;" align="left" alt="Raspberry Pi"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/raspberry-pi.svg"/>
