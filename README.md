@@ -5,7 +5,7 @@
 
 ## I'm a Programmer and a Student
 - 🌱 I’m currently learning everything 📚
-- 👾 I’m looking to collaborate with others at Hackathons and Open Source projects
+- 👾 I’m looking to collaborate with others at Hackathons and on Open Source projects
 - 🌇 Fun fact: I love to take pictures of the Sunset 
 
 ### Connect with me:
