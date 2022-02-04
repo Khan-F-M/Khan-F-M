@@ -38,7 +38,6 @@
 ### Database:
 <img style="width: 50px;height: 50px;" align="left" alt="Bootstrap"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/oracle.svg" />
 <img style="width: 50px;height: 50px;" align="left" alt="Nodejs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/mongodb.svg" />
-<img style="width: 50px;height: 50px;" align="left" alt="Flask"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/flask.svg"/>
 <br />
 <br />
 
