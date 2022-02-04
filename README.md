@@ -35,7 +35,7 @@
 
 ### Frameworks:
 <img align="left" alt="Bootstrap" width="26px" height="26px" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/bootstrap.svg" />
-<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/nodejs.svg" />
+<img align="left" alt="Nodejs" width="26px" height="26px" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/nodejs.svg" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/flask.svg" />
 
 <br />
