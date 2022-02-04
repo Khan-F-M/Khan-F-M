@@ -39,7 +39,6 @@
 <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;width: 30px;height: 30px;" src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/flask.svg"/>
 
 <br />
-<br />
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
