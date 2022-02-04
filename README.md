@@ -27,19 +27,23 @@
 ### Frameworks:
 <img style="width: 50px;height: 50px;" align="left" alt="Bootstrap"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/bootstrap.svg" />
 <img style="width: 50px;height: 50px;" align="left" alt="Nodejs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/nodejs.svg" />
+<img style="width: 50px;height: 50px;" align="left" alt="Expressjs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/express.svg" />
 <img style="width: 50px;height: 50px;" align="left" alt="Flask"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/flask.svg"/>
 <br />
 <br />
 
 ### Databases:
-<img style="width: 50px;height: 50px;" align="left" alt="Bootstrap"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/oracle.svg" />
-<img style="width: 50px;height: 50px;" align="left" alt="Nodejs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/mongodb.svg" />
+<img style="width: 50px;height: 50px;" align="left" alt="Oracle"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/oracle.svg" />
+<img style="width: 50px;height: 50px;" align="left" alt="MongoDB"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/mongodb.svg" />
 <br />
 <br />
 
 ### Tools:
+<img style="width: 50px;height: 50px;" align="left" alt="Visual Studio"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/visual-studio.svg"/>
 <img style="width: 50px;height: 50px;" align="left" alt="Visual Studio Code"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/vscode.svg"/>
 <img style="width: 50px;height: 50px;" align="left" alt="GitHub"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/github.svg"/>
+<img style="width: 50px;height: 50px;" align="left" alt="Raspberry Pi"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/raspberry-pi.svg"/>
+
 
 <!-- [website]: https://codeSTACKr.com IN THE WORKS PORTFOLIO
 [youtube]: https://youtube.com/codeSTACKr -->
