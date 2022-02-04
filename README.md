@@ -27,7 +27,7 @@
 ### Frameworks:
 <img style="width: 50px;height: 50px;" align="left" alt="Bootstrap"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/bootstrap.svg" />
 <img style="width: 50px;height: 50px;" align="left" alt="Nodejs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/nodejs.svg" />
-<img style="width: 50px;height: 50px;background-color: white" align="left" alt="Expressjs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/express.png" />
+<img style="width: 50px;height: 50px;background-color: white" align="left" alt="Expressjs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/express.svg" />
 <img style="width: 50px;height: 50px;" align="left" alt="Flask"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/flask.svg"/>
 <br />
 <br />
