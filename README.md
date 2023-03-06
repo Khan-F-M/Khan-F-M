@@ -22,7 +22,6 @@
 ### Frameworks:
 <img style="width: 50px;height: 50px;" align="left" alt="Bootstrap"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/bootstrap.svg" />
 <img style="width: 50px;height: 50px;" align="left" alt="Nodejs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/nodejs.svg" />
-<img style="width: 50px;height: 50px;background-color: white;border: 20px" align="left" alt="Expressjs"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/express.svg" />
 <br />
 <br />
 
