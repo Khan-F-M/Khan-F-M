@@ -3,7 +3,6 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-<br />
 
 ### Languages:
 <img style="width: 50px;height: 50px;" align="left" alt="C++"  src="https://raw.githubusercontent.com/Khan-F-M/Khan-F-M/main/.github/images/c++.svg" />
